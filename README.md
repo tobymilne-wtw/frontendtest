@@ -17,3 +17,4 @@ Given I have some items in my cart
 When I press the trash button
 Then all of the items of that kind are removed from my cart
 
+![Remove buttons](https://github.com/tobymilne-wtw/frontendtest/blob/main/Remove-from-cart.png)
