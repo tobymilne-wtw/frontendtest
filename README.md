@@ -6,7 +6,7 @@ The current functionality is as follows:
 
 - Display list of catalog items
 - Button to add items to cart
-- Shopping cart showing items in the cart and their count
+- Shopping cart showing items in the cart and their respective counts
 - Ability to increment / decrement count of items in your cart
 
 # New feature request
