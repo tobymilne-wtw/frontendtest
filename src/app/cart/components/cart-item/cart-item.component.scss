@@ -1,0 +1,46 @@
+
+.item-description {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 100%;
+
+  .name, .price {
+    min-width: 60px;
+  }
+
+  .number-of-items {
+    min-width: 25px;
+  }
+
+  :last-child {
+    margin-left: auto;
+  }
+}
+
+.total-price {
+  font-weight: bold;
+}
+
+.item {
+  padding: 5px;
+  margin: 5px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: normal;
+}
+
+span {
+  margin: 0 2px;
+}
+
+input[type=number] {
+  margin-left: 10px;
+}
+
+mat-form-field {
+  width: 60px;
+  height: 20px;
+}
