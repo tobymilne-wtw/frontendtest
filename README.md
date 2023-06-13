@@ -5,7 +5,7 @@ This is a sample application using Angular, NgRx and Angular Material to show a 
 The current functionality is as follows:
 
 - Display list of catalog items
-- Button to Add items to cart
+- Button to add items to cart
 - Shopping cart showing items in the cart and their count
 - Ability to increment / decrement count of items in your cart
 
