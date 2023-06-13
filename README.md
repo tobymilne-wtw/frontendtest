@@ -13,8 +13,8 @@ The current functionality is as follows:
 
 A new feature has been requested to allow for users to remove all of a particular item from their cart.
 
-Given I have some items in my cart
-When I press the trash button
-Then all of the items of that kind are removed from my cart
+Given I have some items in my cart  
+When I press the trash button  
+Then all of the items of that kind are removed from my cart  
 
 ![Remove buttons](https://github.com/tobymilne-wtw/frontendtest/blob/main/Remove-from-cart.png)
